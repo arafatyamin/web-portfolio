@@ -17,6 +17,7 @@ p{
     color: dimgray;
     line-height: 25px;
     word-spacing: 5px;
+    margin: 0;
 }
 .orange-heighlight{
     color: orange;
